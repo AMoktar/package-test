@@ -1,5 +1,6 @@
 {
     "name": "amoktar/package-test",
+    "type": "library",
     "license": "MIT",
     "autoload": {
         "psr-4": {
