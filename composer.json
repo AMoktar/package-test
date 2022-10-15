@@ -1,0 +1,17 @@
+{
+    "name": "amoktar/package-test",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Amoktar\\PackageTest\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Abdallah Mokhtar",
+            "email": "engamoktar@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
